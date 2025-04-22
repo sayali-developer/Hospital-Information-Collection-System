@@ -1,3 +1,3 @@
 # Hospital Information Collection System
 ---
-- Developed for NIC Parbhani
+- Developed by Sayali Videkar
