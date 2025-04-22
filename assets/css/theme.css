@@ -1,0 +1,38 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.lobster-cursive {
+	font-family: 'Lobster', cursive;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.font-nav-bar {
+	font-size: 18px !important;
+}
+.text-padding {
+	line-height: 25px;
+}
+.m-2 {
+	margin: 20px;
+}
+.padding-horizontal {
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.padding-vertical {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.padding-top {
+	padding-top: 30px;
+}
